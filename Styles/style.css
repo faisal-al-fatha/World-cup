@@ -52,7 +52,7 @@ h1 {
     padding: 10px 25px;
     border-radius: 5px;
     margin-top: 30px;
-    transition-duration: 2s;
+    transition-duration: 1s;
     transition-timing-function: ease-in;
 }
 
@@ -62,7 +62,7 @@ h1 {
 }
 
 .button:hover {
-    transform: scale(1.5);
+    transform: scale(1.8);
 }
 
 
